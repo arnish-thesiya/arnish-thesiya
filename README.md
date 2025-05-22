@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Arnish Thesiya
 
-<!--
-**arnish-thesiya/arnish-thesiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's in Renewable Energy Systems | B.E. in Mechanical Engineering  
+🌱 Passionate about Sustainability, LCA, and Data-driven Environmental Modeling  
+🛠️ Tools: Python, openLCA, Git, pandas, matplotlib  
+📊 Hands-on experience with LCA modeling, scenario analysis, and environmental data analysis
 
-Here are some ideas to get you started:
+## 📁 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧪 Master's Thesis – LCA Automation and Visualization
+- Developed full LCA model automation using Python scripts integrated with openLCA
+- Case studies:
+  - **Plastic Bottle Lifecycle** – complete LCI automation and impact assessment
+  - **BMW Automotive Headlight (Cradle-to-Grave)** – real-world industrial model built during student assistantship at Fraunhofer IEM
+- [See the repo →](https://github.com/arnish-thesiya/lca-thesis)
+
+### 📈 Data Analysis Project
+- Python-based project analyzing and visualizing environmental and technical datasets
+- Applied regression, EDA techniques, and data visualization tools
+- [See the repo →](https://github.com/arnish-thesiya/data-analysis)
+
+---
+
+🌍 Always looking to bridge sustainability and technology.  
+📬 [Email me](mailto:your-email@example.com) | 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+
+
