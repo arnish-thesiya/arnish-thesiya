@@ -7,16 +7,12 @@
 
 ## 📁 Featured Projects
 
-### 🧪 Master's Thesis – LCA Automation and Visualization
-- Developed full LCA model automation using Python scripts integrated with openLCA
-- Case studies:
-  - **Plastic Bottle Lifecycle** – complete LCI automation and impact assessment
-  - **BMW Automotive Headlight (Cradle-to-Grave)** – real-world industrial model built during student assistantship at Fraunhofer IEM
+### 🧪 Master's Thesis – Digital Green Twin: Automated Life Cycle Assessment with OpenLCA and Python
+- The aim of this project was to design a scalable, automated workflow for Life Cycle Assessment (LCA) by integrating Python (olca-ipc, olca-schema, pandas) with OpenLCA. The goal was to make LCA modeling more efficient, reproducible, and accessible for complex industrial systems.
 - [See the repo →](https://github.com/arnish-thesiya/lca-thesis)
 
-### 📈 Data Analysis Project
-- Python-based project analyzing and visualizing environmental and technical datasets
-- Applied regression, EDA techniques, and data visualization tools
+### 📈 Energy Production Data Analysis
+- This project was developed as part of a university module on Python for Data Science. It analyzes energy production data from global power plants with a focus on country-level comparisons and trends.
 - [See the repo →](https://github.com/arnish-thesiya/data-analysis)
 
 ---
