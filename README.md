@@ -18,6 +18,6 @@
 ---
 
 🌍 Always looking to bridge sustainability and technology.  
-📬 [Email me](mailto:arnishthesiya602@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+📬 [Email me](mailto:arnishthesiya602@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/arnish-thesiya)
 
 
